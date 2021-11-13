@@ -37,4 +37,4 @@ python model/lstm.py
 
 <img src="images\initialization_ppl.svg" alt="initialization_ppl" width=400 /><img src="images\valid_ppl_layers.svg" alt="valid_ppl_layers" width=400 />
 
-![test_ppl_layer](images/test_ppl_layer.svg)
+<img src="images\test_ppl_layer.svg" alt="test_ppl_layer" width=400/>
