@@ -38,3 +38,7 @@ python model/lstm.py
 <img src="images\initialization_ppl.svg" alt="initialization_ppl" width=400 /><img src="images\valid_ppl_layers.svg" alt="valid_ppl_layers" width=400 />
 
 <img src="images\test_ppl_layer.svg" alt="test_ppl_layer" width=400/>
+
+## 报告
+
+报告文件在report目录中
