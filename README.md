@@ -35,8 +35,6 @@ python model/lstm.py
 
 项目对比了实现的LSTM语言模型的运行结果，具体如下：
 
-![initialization_ppl](images/initialization_ppl.svg)
-
-![valid_ppl_layers](images/valid_ppl_layers.svg)
+![initialization_ppl](images/initialization_ppl.svg)![valid_ppl_layers](images/valid_ppl_layers.svg)
 
 ![test_ppl_layer](images/test_ppl_layer.svg)
