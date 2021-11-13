@@ -33,7 +33,7 @@ python model/lstm.py
 
 ## 结果
 
-项目对比了实现的LSTM语言模型的运行结果，具体如下：
+项目对比了实现的LSTM语言模型的运行结果，具体如下所示，也可以在plot_result.ipynb文件中查看，所有的结果均由手动记录，项目并不提供保存结果的代码。
 
 <img src="images\initialization_ppl.svg" alt="initialization_ppl" width=400 /><img src="images\valid_ppl_layers.svg" alt="valid_ppl_layers" width=400 />
 
